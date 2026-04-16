@@ -1,0 +1,22 @@
+{
+  "applicant_name": "John Smith",
+  "fico_score": 580,
+  "dti_ratio": 50.0,
+  "annual_income": 30000.0,
+  "loan_amount": 25000.0,
+  "loan_term_months": 60,
+  "loan_purpose": "other",
+  "employment_length_years": 0.5,
+  "home_ownership": "RENT",
+  "revolving_util": 0.90,
+  "ltv_ratio": 0.95,
+  "state": "NY",
+  "delinq_2yrs": 3,
+  "open_accounts": 2,
+  "total_accounts": 5,
+  "interest_rate": 0.24,
+  "grade": "F",
+  "gender": null,
+  "race": null,
+  "age": null
+}

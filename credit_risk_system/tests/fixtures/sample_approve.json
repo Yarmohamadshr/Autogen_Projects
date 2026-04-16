@@ -1,0 +1,23 @@
+{
+  "applicant_name": "Jane Doe",
+  "fico_score": 760,
+  "dti_ratio": 14.0,
+  "annual_income": 120000.0,
+  "loan_amount": 15000.0,
+  "loan_term_months": 36,
+  "loan_purpose": "debt_consolidation",
+  "employment_length_years": 8.0,
+  "home_ownership": "MORTGAGE",
+  "revolving_util": 0.12,
+  "ltv_ratio": 0.70,
+  "state": "CA",
+  "delinq_2yrs": 0,
+  "open_accounts": 8,
+  "total_accounts": 20,
+  "interest_rate": 0.07,
+  "grade": "A",
+  "verification_status": "Verified",
+  "gender": "Female",
+  "race": "Hispanic",
+  "age": 38
+}
